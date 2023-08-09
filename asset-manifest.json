@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BuyBusy/static/css/main.e4f1b190.css",
+    "main.js": "/BuyBusy/static/js/main.9b1de4fd.js",
+    "index.html": "/BuyBusy/index.html",
+    "main.e4f1b190.css.map": "/BuyBusy/static/css/main.e4f1b190.css.map",
+    "main.9b1de4fd.js.map": "/BuyBusy/static/js/main.9b1de4fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4f1b190.css",
+    "static/js/main.9b1de4fd.js"
+  ]
+}
